@@ -15,4 +15,4 @@ Steps:
     - ghg_inventory_process.R : here(Processing, ghg_inventory_process.R). This prepares and outputs datasets used for ag stats hub and publication tables (ghg_data.Rda)
     - ghg_inventory import.R: here(Import, import_ghg_inventory.R). This script reads in relevant workbook sheets and reformats data 
 
-For more information please contact agric.stats:gov.scot  
+For more information please contact agric.stats@gov.scot  
